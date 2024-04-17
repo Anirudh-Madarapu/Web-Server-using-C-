@@ -1,0 +1,4034 @@
+[
+{
+    "id": 40033,
+    "url": "https://www.tvmaze.com/episodes/40033/buffy-the-vampire-slayer-1x01-welcome-to-the-hellmouth",
+    "name": "Welcome to the Hellmouth",
+    "season": 1,
+    "number": 1,
+    "type": "regular",
+    "airdate": "1997-03-10",
+    "airtime": "20:00",
+    "airstamp": "1997-03-11T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981065.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981065.jpg"
+    },
+    "summary": "<p>Buffy Summers, a high school sophomore, faces her destiny as a slayer of the undead.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40033"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40034,
+    "url": "https://www.tvmaze.com/episodes/40034/buffy-the-vampire-slayer-1x02-the-harvest",
+    "name": "The Harvest",
+    "season": 1,
+    "number": 2,
+    "type": "regular",
+    "airdate": "1997-03-10",
+    "airtime": "20:00",
+    "airstamp": "1997-03-11T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981070.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981070.jpg"
+    },
+    "summary": "<p>Buffy and her friends encounter a powerful vampire bent on opening a portal to a dimension inhabited by demons.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40034"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40035,
+    "url": "https://www.tvmaze.com/episodes/40035/buffy-the-vampire-slayer-1x03-witch",
+    "name": "Witch",
+    "season": 1,
+    "number": 3,
+    "type": "regular",
+    "airdate": "1997-03-17",
+    "airtime": "20:00",
+    "airstamp": "1997-03-18T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981339.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981339.jpg"
+    },
+    "summary": "<p>A witch attempts to eliminate Buffy from a cheerleading competition.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40035"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40036,
+    "url": "https://www.tvmaze.com/episodes/40036/buffy-the-vampire-slayer-1x04-teachers-pet",
+    "name": "Teacher's Pet",
+    "season": 1,
+    "number": 4,
+    "type": "regular",
+    "airdate": "1997-03-25",
+    "airtime": "20:00",
+    "airstamp": "1997-03-26T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981341.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981341.jpg"
+    },
+    "summary": "<p>Buffy's biology teacher is killed by a giant praying mantis that assumes the form of a beautiful substitute teacher.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40036"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40037,
+    "url": "https://www.tvmaze.com/episodes/40037/buffy-the-vampire-slayer-1x05-never-kill-a-boy-on-the-first-date",
+    "name": "Never Kill a Boy on the First Date",
+    "season": 1,
+    "number": 5,
+    "type": "regular",
+    "airdate": "1997-03-31",
+    "airtime": "20:00",
+    "airstamp": "1997-04-01T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981343.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981343.jpg"
+    },
+    "summary": "<p>While Buffy awaits the arrival of a warrior vampire, she dates a boy who is attracted to her exciting lifestyle.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40037"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40038,
+    "url": "https://www.tvmaze.com/episodes/40038/buffy-the-vampire-slayer-1x06-the-pack",
+    "name": "The Pack",
+    "season": 1,
+    "number": 6,
+    "type": "regular",
+    "airdate": "1997-04-07",
+    "airtime": "20:00",
+    "airstamp": "1997-04-08T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981347.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981347.jpg"
+    },
+    "summary": "<p>Xander and several other students are possessed by the spirit of a demonic breed of hyenas that wreak havoc at the high school.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40038"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40039,
+    "url": "https://www.tvmaze.com/episodes/40039/buffy-the-vampire-slayer-1x07-angel",
+    "name": "Angel",
+    "season": 1,
+    "number": 7,
+    "type": "regular",
+    "airdate": "1997-04-14",
+    "airtime": "20:00",
+    "airstamp": "1997-04-15T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981357.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981357.jpg"
+    },
+    "summary": "<p>Buffy discovers Angel's horrifying secret.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40039"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40040,
+    "url": "https://www.tvmaze.com/episodes/40040/buffy-the-vampire-slayer-1x08-i-robot-you-jane",
+    "name": "I, Robot... You, Jane",
+    "season": 1,
+    "number": 8,
+    "type": "regular",
+    "airdate": "1997-04-28",
+    "airtime": "20:00",
+    "airstamp": "1997-04-29T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981358.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981358.jpg"
+    },
+    "summary": "<p>Willow unwittingly unleashes a powerful demon that takes refuge on the Internet.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40040"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40041,
+    "url": "https://www.tvmaze.com/episodes/40041/buffy-the-vampire-slayer-1x09-the-puppet-show",
+    "name": "The Puppet Show",
+    "season": 1,
+    "number": 9,
+    "type": "regular",
+    "airdate": "1997-05-05",
+    "airtime": "20:00",
+    "airstamp": "1997-05-06T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36605.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36605.jpg"
+    },
+    "summary": "<p>Buffy suspects that a ventriloquist's dummy may be harvesting organs from classmates performing in a talent show.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40041"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40042,
+    "url": "https://www.tvmaze.com/episodes/40042/buffy-the-vampire-slayer-1x10-nightmares",
+    "name": "Nightmares",
+    "season": 1,
+    "number": 10,
+    "type": "regular",
+    "airdate": "1997-05-12",
+    "airtime": "20:00",
+    "airstamp": "1997-05-13T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981359.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981359.jpg"
+    },
+    "summary": "<p>Buffy and her friends discover that their worst nightmares have become reality.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40042"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40043,
+    "url": "https://www.tvmaze.com/episodes/40043/buffy-the-vampire-slayer-1x11-out-of-mind-out-of-sight",
+    "name": "Out of Mind, Out of Sight",
+    "season": 1,
+    "number": 11,
+    "type": "regular",
+    "airdate": "1997-05-19",
+    "airtime": "20:00",
+    "airstamp": "1997-05-20T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981362.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981362.jpg"
+    },
+    "summary": "<p>As the queen election approaches, an invisible force attacks Cordelia's closest friends.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40043"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40044,
+    "url": "https://www.tvmaze.com/episodes/40044/buffy-the-vampire-slayer-1x12-prophecy-girl",
+    "name": "Prophecy Girl",
+    "season": 1,
+    "number": 12,
+    "type": "regular",
+    "airdate": "1997-06-02",
+    "airtime": "20:00",
+    "airstamp": "1997-06-03T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981382.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981382.jpg"
+    },
+    "summary": "<p>Giles discovers an ancient book foretelling Buffy's death at the hands of the Master.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40044"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40045,
+    "url": "https://www.tvmaze.com/episodes/40045/buffy-the-vampire-slayer-2x01-when-she-was-bad",
+    "name": "When She Was Bad",
+    "season": 2,
+    "number": 1,
+    "type": "regular",
+    "airdate": "1997-09-15",
+    "airtime": "20:00",
+    "airstamp": "1997-09-16T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981386.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981386.jpg"
+    },
+    "summary": "<p>Buffy returns from summer vacation sporting an attitude and suffers from recurring nightmares involving the Master. Meanwhile, the Anointed One and his followers plot their revenge.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40045"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40046,
+    "url": "https://www.tvmaze.com/episodes/40046/buffy-the-vampire-slayer-2x02-some-assembly-required",
+    "name": "Some Assembly Required",
+    "season": 2,
+    "number": 2,
+    "type": "regular",
+    "airdate": "1997-09-22",
+    "airtime": "20:00",
+    "airstamp": "1997-09-23T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36585.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36585.jpg"
+    },
+    "summary": "<p>Two science club nerds use body parts to create the \"perfect girlfriend\" for a teenager who has been brought back from the dead.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40046"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40047,
+    "url": "https://www.tvmaze.com/episodes/40047/buffy-the-vampire-slayer-2x03-school-hard",
+    "name": "School Hard",
+    "season": 2,
+    "number": 3,
+    "type": "regular",
+    "airdate": "1997-09-29",
+    "airtime": "20:00",
+    "airstamp": "1997-09-30T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981395.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981395.jpg"
+    },
+    "summary": "<p>Buffy's mother and friends becomes trapped inside Sunnydale High School when a vampire named Spike launches an attack against the Slayer.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40047"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40048,
+    "url": "https://www.tvmaze.com/episodes/40048/buffy-the-vampire-slayer-2x04-inca-mummy-girl",
+    "name": "Inca Mummy Girl",
+    "season": 2,
+    "number": 4,
+    "type": "regular",
+    "airdate": "1997-10-06",
+    "airtime": "20:00",
+    "airstamp": "1997-10-07T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981605.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981605.jpg"
+    },
+    "summary": "<p>A beautiful Inca princess who was buried alive in a tomb 500 years ago is brought back to life.<br></p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40048"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40049,
+    "url": "https://www.tvmaze.com/episodes/40049/buffy-the-vampire-slayer-2x05-reptile-boy",
+    "name": "Reptile Boy",
+    "season": 2,
+    "number": 5,
+    "type": "regular",
+    "airdate": "1997-10-13",
+    "airtime": "20:00",
+    "airstamp": "1997-10-14T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36588.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36588.jpg"
+    },
+    "summary": "<p>Buffy and Cordelia attend a frat party where they are offered as human sacrifices to a reptile-like creature.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40049"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40050,
+    "url": "https://www.tvmaze.com/episodes/40050/buffy-the-vampire-slayer-2x06-halloween",
+    "name": "Halloween",
+    "season": 2,
+    "number": 6,
+    "type": "regular",
+    "airdate": "1997-10-27",
+    "airtime": "20:00",
+    "airstamp": "1997-10-28T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981607.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981607.jpg"
+    },
+    "summary": "<p>On Halloween, Buffy and her friends patronize an unusual costume shop where customers turn into whatever costume they are wearing.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40050"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40051,
+    "url": "https://www.tvmaze.com/episodes/40051/buffy-the-vampire-slayer-2x07-lie-to-me",
+    "name": "Lie to Me",
+    "season": 2,
+    "number": 7,
+    "type": "regular",
+    "airdate": "1997-11-03",
+    "airtime": "20:00",
+    "airstamp": "1997-11-04T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981611.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981611.jpg"
+    },
+    "summary": "<p>Buffy is lured into a trap by a group of undead wannabes who hope that Spike will make them vampires in exchange for giving him the Slayer.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40051"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40052,
+    "url": "https://www.tvmaze.com/episodes/40052/buffy-the-vampire-slayer-2x08-the-dark-age",
+    "name": "The Dark Age",
+    "season": 2,
+    "number": 8,
+    "type": "regular",
+    "airdate": "1997-11-10",
+    "airtime": "20:00",
+    "airstamp": "1997-11-11T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36591.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36591.jpg"
+    },
+    "summary": "<p>Giles's past comes back to haunt him as a demon he and Ethan Rayne summoned in their wild youth seeks them out in Sunnydale.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40052"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40053,
+    "url": "https://www.tvmaze.com/episodes/40053/buffy-the-vampire-slayer-2x09-whats-my-line-part-i",
+    "name": "What's My Line?: Part I",
+    "season": 2,
+    "number": 9,
+    "type": "regular",
+    "airdate": "1997-11-17",
+    "airtime": "20:00",
+    "airstamp": "1997-11-18T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981613.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981613.jpg"
+    },
+    "summary": "<p>Spike brings in three professional bounty hunters to eliminate Buffy while she ponders on what her profession might be if her fate wasn't already sealed.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40053"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40054,
+    "url": "https://www.tvmaze.com/episodes/40054/buffy-the-vampire-slayer-2x10-whats-my-line-part-ii",
+    "name": "What's My Line?: Part II",
+    "season": 2,
+    "number": 10,
+    "type": "regular",
+    "airdate": "1997-11-24",
+    "airtime": "20:00",
+    "airstamp": "1997-11-25T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981619.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981619.jpg"
+    },
+    "summary": "<p>Buffy joins forces with another Slayer in hopes of saving Angel from the clutches of Spike and Drusilla.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40054"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40055,
+    "url": "https://www.tvmaze.com/episodes/40055/buffy-the-vampire-slayer-2x11-ted",
+    "name": "Ted",
+    "season": 2,
+    "number": 11,
+    "type": "regular",
+    "airdate": "1997-12-08",
+    "airtime": "20:00",
+    "airstamp": "1997-12-09T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36594.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36594.jpg"
+    },
+    "summary": "<p>Buffy's mother brings home Ted, her new boyfriend, who is not what he seems.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40055"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40056,
+    "url": "https://www.tvmaze.com/episodes/40056/buffy-the-vampire-slayer-2x12-bad-eggs",
+    "name": "Bad Eggs",
+    "season": 2,
+    "number": 12,
+    "type": "regular",
+    "airdate": "1998-01-12",
+    "airtime": "20:00",
+    "airstamp": "1998-01-13T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36595.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36595.jpg"
+    },
+    "summary": "<p>Buffy and her friends encounter even more trouble than expected when the eggs they are given in health class turn out to be prehistoric parasites that take over their lives.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40056"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40057,
+    "url": "https://www.tvmaze.com/episodes/40057/buffy-the-vampire-slayer-2x13-surprise",
+    "name": "Surprise",
+    "season": 2,
+    "number": 13,
+    "type": "regular",
+    "airdate": "1998-01-19",
+    "airtime": "20:00",
+    "airstamp": "1998-01-20T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981625.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981625.jpg"
+    },
+    "summary": "<p>To give Buffy a surprise on her 17th birthday, Drusilla and Spike bring together the body parts of a dismembered demon who cannot be killed.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40057"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40058,
+    "url": "https://www.tvmaze.com/episodes/40058/buffy-the-vampire-slayer-2x14-innocence",
+    "name": "Innocence",
+    "season": 2,
+    "number": 14,
+    "type": "regular",
+    "airdate": "1998-01-20",
+    "airtime": "20:00",
+    "airstamp": "1998-01-21T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981626.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981626.jpg"
+    },
+    "summary": "<p>Buffy and her friends battle the judge and face unexpected danger from Angel, who has lost his soul after experiencing a moment of true happiness.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40058"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40059,
+    "url": "https://www.tvmaze.com/episodes/40059/buffy-the-vampire-slayer-2x15-phases",
+    "name": "Phases",
+    "season": 2,
+    "number": 15,
+    "type": "regular",
+    "airdate": "1998-01-27",
+    "airtime": "20:00",
+    "airstamp": "1998-01-28T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36582.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36582.jpg"
+    },
+    "summary": "<p>Buffy and her friends discover secrets about themselves as they battle a werewolf, its hunter, and their own emotions.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40059"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40060,
+    "url": "https://www.tvmaze.com/episodes/40060/buffy-the-vampire-slayer-2x16-bewitched-bothered-and-bewildered",
+    "name": "Bewitched, Bothered and Bewildered",
+    "season": 2,
+    "number": 16,
+    "type": "regular",
+    "airdate": "1998-02-10",
+    "airtime": "20:00",
+    "airstamp": "1998-02-11T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981630.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981630.jpg"
+    },
+    "summary": "<p>As Valentine's Day approaches, Xander tries to improve his love life through witchcraft and finds himself with too much of a good thing.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40060"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40061,
+    "url": "https://www.tvmaze.com/episodes/40061/buffy-the-vampire-slayer-2x17-passion",
+    "name": "Passion",
+    "season": 2,
+    "number": 17,
+    "type": "regular",
+    "airdate": "1998-02-24",
+    "airtime": "20:00",
+    "airstamp": "1998-02-25T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36580.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36580.jpg"
+    },
+    "summary": "<p>Angel steps up his torment of Buffy and her friends as Jenny searches for a way to restore his soul.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40061"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40062,
+    "url": "https://www.tvmaze.com/episodes/40062/buffy-the-vampire-slayer-2x18-killed-by-death",
+    "name": "Killed by Death",
+    "season": 2,
+    "number": 18,
+    "type": "regular",
+    "airdate": "1998-03-03",
+    "airtime": "20:00",
+    "airstamp": "1998-03-04T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36579.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36579.jpg"
+    },
+    "summary": "<p>While hospitalized with a severe case of the flu, Buffy battles a demon that sucks the life out of sick children.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40062"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40063,
+    "url": "https://www.tvmaze.com/episodes/40063/buffy-the-vampire-slayer-2x19-i-only-have-eyes-for-you",
+    "name": "I Only Have Eyes for You",
+    "season": 2,
+    "number": 19,
+    "type": "regular",
+    "airdate": "1998-04-28",
+    "airtime": "20:00",
+    "airstamp": "1998-04-29T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981632.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981632.jpg"
+    },
+    "summary": "<p>Sunnydale High School is haunted by the ghosts of a former student and teacher who reenact their tragic romance through the bodies of the school's current inhabitants.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40063"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40064,
+    "url": "https://www.tvmaze.com/episodes/40064/buffy-the-vampire-slayer-2x20-go-fish",
+    "name": "Go Fish",
+    "season": 2,
+    "number": 20,
+    "type": "regular",
+    "airdate": "1998-05-05",
+    "airtime": "20:00",
+    "airstamp": "1998-05-06T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/36577.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36577.jpg"
+    },
+    "summary": "<p>When several members of the Sunnydale High swim team are mysteriously skinned alive, Buffy and the gang take it upon themselves to protect the remaining members, which results in Xander revealing a side of himself rarely seen.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40064"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40065,
+    "url": "https://www.tvmaze.com/episodes/40065/buffy-the-vampire-slayer-2x21-becoming-part-i",
+    "name": "Becoming: Part I",
+    "season": 2,
+    "number": 21,
+    "type": "regular",
+    "airdate": "1998-05-12",
+    "airtime": "20:00",
+    "airstamp": "1998-05-13T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981635.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981635.jpg"
+    },
+    "summary": "<p>Angel plots to revive an ancient demon bent of sweeping everything on earth into hell itself.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40065"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40066,
+    "url": "https://www.tvmaze.com/episodes/40066/buffy-the-vampire-slayer-2x22-becoming-part-ii",
+    "name": "Becoming: Part II",
+    "season": 2,
+    "number": 22,
+    "type": "regular",
+    "airdate": "1998-05-19",
+    "airtime": "20:00",
+    "airstamp": "1998-05-20T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 9.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981639.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981639.jpg"
+    },
+    "summary": "<p>Spike strikes an unlikely alliance with Buffy to keep Angel from destroying the world.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40066"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40067,
+    "url": "https://www.tvmaze.com/episodes/40067/buffy-the-vampire-slayer-3x01-anne",
+    "name": "Anne",
+    "season": 3,
+    "number": 1,
+    "type": "regular",
+    "airdate": "1998-09-29",
+    "airtime": "20:00",
+    "airstamp": "1998-09-30T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37013.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37013.jpg"
+    },
+    "summary": "<p>Buffy -- living on her own in a big city -- assists a girl whose boyfriend has mysteriously vanished. Back in Sunnydale, Buffy's friends do their best to battle the forces of evil.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40067"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40068,
+    "url": "https://www.tvmaze.com/episodes/40068/buffy-the-vampire-slayer-3x02-dead-mans-party",
+    "name": "Dead Man's Party",
+    "season": 3,
+    "number": 2,
+    "type": "regular",
+    "airdate": "1998-10-06",
+    "airtime": "20:00",
+    "airstamp": "1998-10-07T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37014.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37014.jpg"
+    },
+    "summary": "<p>A Nigerian mask reanimates the dead, forcing Buffy to battle a horde of zombies.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40068"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40069,
+    "url": "https://www.tvmaze.com/episodes/40069/buffy-the-vampire-slayer-3x03-faith-hope-trick",
+    "name": "Faith, Hope & Trick",
+    "season": 3,
+    "number": 3,
+    "type": "regular",
+    "airdate": "1998-10-13",
+    "airtime": "20:00",
+    "airstamp": "1998-10-14T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37035.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37035.jpg"
+    },
+    "summary": "<p>A charismatic Slayer visits Sunnydale and wins over many of Buffy's friends. Meanwhile, two powerful vampires plot an attack.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40069"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40070,
+    "url": "https://www.tvmaze.com/episodes/40070/buffy-the-vampire-slayer-3x04-beauty-and-the-beasts",
+    "name": "Beauty and the Beasts",
+    "season": 3,
+    "number": 4,
+    "type": "regular",
+    "airdate": "1998-10-20",
+    "airtime": "20:00",
+    "airstamp": "1998-10-21T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981644.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981644.jpg"
+    },
+    "summary": "<p>Oz becomes the prime suspect when a series of animal-like attacks occurs in Sunnydale.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40070"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40071,
+    "url": "https://www.tvmaze.com/episodes/40071/buffy-the-vampire-slayer-3x05-homecoming",
+    "name": "Homecoming",
+    "season": 3,
+    "number": 5,
+    "type": "regular",
+    "airdate": "1998-11-03",
+    "airtime": "20:00",
+    "airstamp": "1998-11-04T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981645.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981645.jpg"
+    },
+    "summary": "<p>As Buffy and Cordelia vie for Homecoming Queen, a group of killers gathers to participate in SlayerFest '98.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40071"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40072,
+    "url": "https://www.tvmaze.com/episodes/40072/buffy-the-vampire-slayer-3x06-band-candy",
+    "name": "Band Candy",
+    "season": 3,
+    "number": 6,
+    "type": "regular",
+    "airdate": "1998-11-10",
+    "airtime": "20:00",
+    "airstamp": "1998-11-11T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37017.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37017.jpg"
+    },
+    "summary": "<p>Adults throughout Sunnydale behave like immature teenagers after they eat cursed candy.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40072"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40073,
+    "url": "https://www.tvmaze.com/episodes/40073/buffy-the-vampire-slayer-3x07-revelations",
+    "name": "Revelations",
+    "season": 3,
+    "number": 7,
+    "type": "regular",
+    "airdate": "1998-11-17",
+    "airtime": "20:00",
+    "airstamp": "1998-11-18T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981647.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981647.jpg"
+    },
+    "summary": "<p>With some help from Faith's new watcher, Buffy seeks to destroy a weapon-like glove before it falls into the hands of a demon.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40073"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40074,
+    "url": "https://www.tvmaze.com/episodes/40074/buffy-the-vampire-slayer-3x08-lovers-walk",
+    "name": "Lovers Walk",
+    "season": 3,
+    "number": 8,
+    "type": "regular",
+    "airdate": "1998-11-24",
+    "airtime": "20:00",
+    "airstamp": "1998-11-25T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981658.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981658.jpg"
+    },
+    "summary": "<p>Spike returns to Sunnydale and kidnaps Willow in hopes of creating a magic spell that will make Drusilla love him again.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40074"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40075,
+    "url": "https://www.tvmaze.com/episodes/40075/buffy-the-vampire-slayer-3x09-the-wish",
+    "name": "The Wish",
+    "season": 3,
+    "number": 9,
+    "type": "regular",
+    "airdate": "1998-12-08",
+    "airtime": "20:00",
+    "airstamp": "1998-12-09T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37020.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37020.jpg"
+    },
+    "summary": "<p>Cordelia's wish for a Buffy-free Sunnydale comes true, plunging her into a world where vampires have control of the town.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40075"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40076,
+    "url": "https://www.tvmaze.com/episodes/40076/buffy-the-vampire-slayer-3x10-amends",
+    "name": "Amends",
+    "season": 3,
+    "number": 10,
+    "type": "regular",
+    "airdate": "1998-12-15",
+    "airtime": "20:00",
+    "airstamp": "1998-12-16T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37021.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37021.jpg"
+    },
+    "summary": "<p>As the Christmas holiday approaches, Angel is tormented by evil apparitions who want him to eliminate Buffy.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40076"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40077,
+    "url": "https://www.tvmaze.com/episodes/40077/buffy-the-vampire-slayer-3x11-gingerbread",
+    "name": "Gingerbread",
+    "season": 3,
+    "number": 11,
+    "type": "regular",
+    "airdate": "1999-01-12",
+    "airtime": "20:00",
+    "airstamp": "1999-01-13T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37022.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37022.jpg"
+    },
+    "summary": "<p>After discovering the corpses of two young children bearing a symbol linked to the occult, Joyce spearheads a campaign to rid Sunnydale of witches.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40077"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40078,
+    "url": "https://www.tvmaze.com/episodes/40078/buffy-the-vampire-slayer-3x12-helpless",
+    "name": "Helpless",
+    "season": 3,
+    "number": 12,
+    "type": "regular",
+    "airdate": "1999-01-19",
+    "airtime": "20:00",
+    "airstamp": "1999-01-20T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37023.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37023.jpg"
+    },
+    "summary": "<p>As her birthday approaches, Buffy loses her slayer powers and must do battle with a vampire who is not only extremely powerful but also quite mad.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40078"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40079,
+    "url": "https://www.tvmaze.com/episodes/40079/buffy-the-vampire-slayer-3x13-the-zeppo",
+    "name": "The Zeppo",
+    "season": 3,
+    "number": 13,
+    "type": "regular",
+    "airdate": "1999-01-26",
+    "airtime": "20:00",
+    "airstamp": "1999-01-27T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981661.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981661.jpg"
+    },
+    "summary": "<p>Xander experiences an adventure of his own when he encounters a group of reanimated corpses out to construct a bomb. Meanwhile, Buffy and her friends battle the forces of evil when the Hellmouth reopens.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40079"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40080,
+    "url": "https://www.tvmaze.com/episodes/40080/buffy-the-vampire-slayer-3x14-bad-girls",
+    "name": "Bad Girls",
+    "season": 3,
+    "number": 14,
+    "type": "regular",
+    "airdate": "1999-02-09",
+    "airtime": "20:00",
+    "airstamp": "1999-02-10T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37025.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37025.jpg"
+    },
+    "summary": "<p>Faith convinces Buffy to live on the wild side, with fatal consequences.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40080"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40081,
+    "url": "https://www.tvmaze.com/episodes/40081/buffy-the-vampire-slayer-3x15-consequences",
+    "name": "Consequences",
+    "season": 3,
+    "number": 15,
+    "type": "regular",
+    "airdate": "1999-02-16",
+    "airtime": "20:00",
+    "airstamp": "1999-02-17T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37026.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37026.jpg"
+    },
+    "summary": "<p>A homicide detective closes in on Buffy and Faith as he investigates the deputy mayor's death.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40081"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40082,
+    "url": "https://www.tvmaze.com/episodes/40082/buffy-the-vampire-slayer-3x16-doppelgangland",
+    "name": "Doppelgangland",
+    "season": 3,
+    "number": 16,
+    "type": "regular",
+    "airdate": "1999-02-23",
+    "airtime": "20:00",
+    "airstamp": "1999-02-24T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37027.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37027.jpg"
+    },
+    "summary": "<p>While casting a magic spell, Anya and Willow accidentally summon Willow's evil double from an alternate universe.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40082"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40083,
+    "url": "https://www.tvmaze.com/episodes/40083/buffy-the-vampire-slayer-3x17-enemies",
+    "name": "Enemies",
+    "season": 3,
+    "number": 17,
+    "type": "regular",
+    "airdate": "1999-03-16",
+    "airtime": "20:00",
+    "airstamp": "1999-03-17T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37028.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37028.jpg"
+    },
+    "summary": "<p>Faith uses a shaman's powers to take away Angel's soul.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40083"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40084,
+    "url": "https://www.tvmaze.com/episodes/40084/buffy-the-vampire-slayer-3x18-earshot",
+    "name": "Earshot",
+    "season": 3,
+    "number": 18,
+    "type": "regular",
+    "airdate": "1999-04-14",
+    "airtime": "20:00",
+    "airstamp": "1999-04-15T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37029.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37029.jpg"
+    },
+    "summary": "<p>Buffy fears she will descend into madness after she acquires the ability to read minds.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40084"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40085,
+    "url": "https://www.tvmaze.com/episodes/40085/buffy-the-vampire-slayer-3x19-choices",
+    "name": "Choices",
+    "season": 3,
+    "number": 19,
+    "type": "regular",
+    "airdate": "1999-05-04",
+    "airtime": "20:00",
+    "airstamp": "1999-05-05T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37030.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37030.jpg"
+    },
+    "summary": "<p>The Mayor takes Willow prisoner after Buffy and her friends steal away a box containing demonic energy needed for Ascension Day.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40085"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40086,
+    "url": "https://www.tvmaze.com/episodes/40086/buffy-the-vampire-slayer-3x20-the-prom",
+    "name": "The Prom",
+    "season": 3,
+    "number": 20,
+    "type": "regular",
+    "airdate": "1999-05-11",
+    "airtime": "20:00",
+    "airstamp": "1999-05-12T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37031.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37031.jpg"
+    },
+    "summary": "<p>After Angel breaks off their relationship, Buffy single-handedly battles three fearsome hell hounds so that her classmates can enjoy their senior prom.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40086"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40087,
+    "url": "https://www.tvmaze.com/episodes/40087/buffy-the-vampire-slayer-3x21-graduation-day-part-i",
+    "name": "Graduation Day: Part I",
+    "season": 3,
+    "number": 21,
+    "type": "regular",
+    "airdate": "1999-05-18",
+    "airtime": "20:00",
+    "airstamp": "1999-05-19T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37032.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37032.jpg"
+    },
+    "summary": "<p>In an effort to distract Buffy from the Ascension, the mayor instructs Faith to poison Angel.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40087"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40088,
+    "url": "https://www.tvmaze.com/episodes/40088/buffy-the-vampire-slayer-3x22-graduation-day-part-ii",
+    "name": "Graduation Day: Part II",
+    "season": 3,
+    "number": 22,
+    "type": "regular",
+    "airdate": "1999-07-13",
+    "airtime": "20:00",
+    "airstamp": "1999-07-14T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981664.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981664.jpg"
+    },
+    "summary": "<p>On Ascension Day, Buffy and her friends prepare for the ultimate battle as they face off against the mayor and a hoard of vampires.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40088"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40089,
+    "url": "https://www.tvmaze.com/episodes/40089/buffy-the-vampire-slayer-4x01-the-freshman",
+    "name": "The Freshman",
+    "season": 4,
+    "number": 1,
+    "type": "regular",
+    "airdate": "1999-10-05",
+    "airtime": "20:00",
+    "airstamp": "1999-10-06T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37113.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37113.jpg"
+    },
+    "summary": "<p>As Buffy adjusts to college life, she notices that classmates are mysteriously disappearing.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40089"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40090,
+    "url": "https://www.tvmaze.com/episodes/40090/buffy-the-vampire-slayer-4x02-living-conditions",
+    "name": "Living Conditions",
+    "season": 4,
+    "number": 2,
+    "type": "regular",
+    "airdate": "1999-10-12",
+    "airtime": "20:00",
+    "airstamp": "1999-10-13T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37114.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37114.jpg"
+    },
+    "summary": "<p>Buffy finds herself at odds with her new roommate and is troubled by a series of disturbing dreams involving a soul-sucking demon.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40090"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40091,
+    "url": "https://www.tvmaze.com/episodes/40091/buffy-the-vampire-slayer-4x03-the-harsh-light-of-day",
+    "name": "The Harsh Light of Day",
+    "season": 4,
+    "number": 3,
+    "type": "regular",
+    "airdate": "1999-10-19",
+    "airtime": "20:00",
+    "airstamp": "1999-10-20T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37115.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37115.jpg"
+    },
+    "summary": "<p>As Buffy gets to know a charming student named Parker, Spike searches for a ring that, according to legend, makes the wearer invincible.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40091"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40092,
+    "url": "https://www.tvmaze.com/episodes/40092/buffy-the-vampire-slayer-4x04-fear-itself",
+    "name": "Fear, Itself",
+    "season": 4,
+    "number": 4,
+    "type": "regular",
+    "airdate": "1999-10-26",
+    "airtime": "20:00",
+    "airstamp": "1999-10-27T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37116.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37116.jpg"
+    },
+    "summary": "<p>On Halloween, Buffy and her friends find themselves trapped inside a haunted frat house complete with real bats, zombies, and a terrifying demon.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40092"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40093,
+    "url": "https://www.tvmaze.com/episodes/40093/buffy-the-vampire-slayer-4x05-beer-bad",
+    "name": "Beer Bad",
+    "season": 4,
+    "number": 5,
+    "type": "regular",
+    "airdate": "1999-11-02",
+    "airtime": "20:00",
+    "airstamp": "1999-11-03T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37117.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37117.jpg"
+    },
+    "summary": "<p>Xander finds employment as a bartender at a pub where some of Buffy's friends turn into terrifying Cro-Magnon creatures.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40093"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40094,
+    "url": "https://www.tvmaze.com/episodes/40094/buffy-the-vampire-slayer-4x06-wild-at-heart",
+    "name": "Wild at Heart",
+    "season": 4,
+    "number": 6,
+    "type": "regular",
+    "airdate": "1999-11-09",
+    "airtime": "20:00",
+    "airstamp": "1999-11-10T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981667.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981667.jpg"
+    },
+    "summary": "<p>Oz finds himself unable to control his attraction to Veruca, a sexy singer who just happens to be a werewolf.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40094"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40095,
+    "url": "https://www.tvmaze.com/episodes/40095/buffy-the-vampire-slayer-4x07-the-initiative",
+    "name": "The Initiative",
+    "season": 4,
+    "number": 7,
+    "type": "regular",
+    "airdate": "1999-11-16",
+    "airtime": "20:00",
+    "airstamp": "1999-11-17T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981668.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981668.jpg"
+    },
+    "summary": "<p>Spike finds himself targeted by a group of commandos after he escapes from a military lab underneath the Sunnydale campus.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40095"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40096,
+    "url": "https://www.tvmaze.com/episodes/40096/buffy-the-vampire-slayer-4x08-pangs",
+    "name": "Pangs",
+    "season": 4,
+    "number": 8,
+    "type": "regular",
+    "airdate": "1999-11-23",
+    "airtime": "20:00",
+    "airstamp": "1999-11-24T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981670.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981670.jpg"
+    },
+    "summary": "<p>On Thanksgiving, Buffy encounters the spirit of a Native American warrior whose people were wiped out by settlers. Meanwhile Angel silently returns to Sunnydale after Doyle's vision of Buffy in danger.<br></p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40096"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40097,
+    "url": "https://www.tvmaze.com/episodes/40097/buffy-the-vampire-slayer-4x09-something-blue",
+    "name": "Something Blue",
+    "season": 4,
+    "number": 9,
+    "type": "regular",
+    "airdate": "1999-11-30",
+    "airtime": "20:00",
+    "airstamp": "1999-12-01T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981675.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981675.jpg"
+    },
+    "summary": "<p>One of Willow's spells causes her statements to become reality, with consequences both entertaining and life-threatening.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40097"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40098,
+    "url": "https://www.tvmaze.com/episodes/40098/buffy-the-vampire-slayer-4x10-hush",
+    "name": "Hush",
+    "season": 4,
+    "number": 10,
+    "type": "regular",
+    "airdate": "1999-12-14",
+    "airtime": "20:00",
+    "airstamp": "1999-12-15T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 9.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37122.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37122.jpg"
+    },
+    "summary": "<p>A group of murderous creatures called 'The Gentlemen' straight out of a fairytale steal the voices of Sunnydale.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40098"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40099,
+    "url": "https://www.tvmaze.com/episodes/40099/buffy-the-vampire-slayer-4x11-doomed",
+    "name": "Doomed",
+    "season": 4,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2000-01-18",
+    "airtime": "20:00",
+    "airstamp": "2000-01-19T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981679.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981679.jpg"
+    },
+    "summary": "<p>As Riley comes to terms with Buffy's revelation, a trio of demons attempts to reopen the Hellmouth.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40099"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40100,
+    "url": "https://www.tvmaze.com/episodes/40100/buffy-the-vampire-slayer-4x12-a-new-man",
+    "name": "A New Man",
+    "season": 4,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2000-01-25",
+    "airtime": "20:00",
+    "airstamp": "2000-01-26T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37333.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37333.jpg"
+    },
+    "summary": "<p>Ethan Rayne returns to town and transforms Giles into a demon. Spike is the only one who can help.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40100"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40101,
+    "url": "https://www.tvmaze.com/episodes/40101/buffy-the-vampire-slayer-4x13-the-i-in-team",
+    "name": "The I in Team",
+    "season": 4,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2000-02-08",
+    "airtime": "20:00",
+    "airstamp": "2000-02-09T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981688.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981688.jpg"
+    },
+    "summary": "<p>Buffy joins the Initiative, but her self-reliant and curious attitude doesn't mesh well with the military's chain of command.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40101"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40102,
+    "url": "https://www.tvmaze.com/episodes/40102/buffy-the-vampire-slayer-4x14-goodbye-iowa",
+    "name": "Goodbye Iowa",
+    "season": 4,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2000-02-15",
+    "airtime": "20:00",
+    "airstamp": "2000-02-16T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37335.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37335.jpg"
+    },
+    "summary": "<p>Tension erupts between Buffy and an ailing Riley as they pursue Professor Maggie Walsh's killer.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40102"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40103,
+    "url": "https://www.tvmaze.com/episodes/40103/buffy-the-vampire-slayer-4x15-this-years-girl",
+    "name": "This Year's Girl",
+    "season": 4,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2000-02-22",
+    "airtime": "20:00",
+    "airstamp": "2000-02-23T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37336.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37336.jpg"
+    },
+    "summary": "<p>Faith awakens from her coma and seeks revenge against Buffy.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40103"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40104,
+    "url": "https://www.tvmaze.com/episodes/40104/buffy-the-vampire-slayer-4x16-who-are-you",
+    "name": "Who Are You?",
+    "season": 4,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2000-02-29",
+    "airtime": "20:00",
+    "airstamp": "2000-03-01T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37337.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37337.jpg"
+    },
+    "summary": "<p>Having switched bodies with Buffy, Faith enjoys freedom. Meanwhile, Buffy finds herself at the mercy of the Watcher's Council.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40104"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40105,
+    "url": "https://www.tvmaze.com/episodes/40105/buffy-the-vampire-slayer-4x17-superstar",
+    "name": "Superstar",
+    "season": 4,
+    "number": 17,
+    "type": "regular",
+    "airdate": "2000-04-04",
+    "airtime": "20:00",
+    "airstamp": "2000-04-05T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37338.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37338.jpg"
+    },
+    "summary": "<p>Buffy senses that something is amiss when Jonathan becomes a hero to everyone in Sunnydale.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40105"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40106,
+    "url": "https://www.tvmaze.com/episodes/40106/buffy-the-vampire-slayer-4x18-where-the-wild-things-are",
+    "name": "Where the Wild Things Are",
+    "season": 4,
+    "number": 18,
+    "type": "regular",
+    "airdate": "2000-04-25",
+    "airtime": "20:00",
+    "airstamp": "2000-04-26T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37339.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37339.jpg"
+    },
+    "summary": "<p>Buffy and Riley's passionate lovemaking energizes supernatural elements inside a frat house.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40106"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40107,
+    "url": "https://www.tvmaze.com/episodes/40107/buffy-the-vampire-slayer-4x19-new-moon-rising",
+    "name": "New Moon Rising",
+    "season": 4,
+    "number": 19,
+    "type": "regular",
+    "airdate": "2000-05-02",
+    "airtime": "20:00",
+    "airstamp": "2000-05-03T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981689.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981689.jpg"
+    },
+    "summary": "<p>Oz's return to Sunnydale leads to his incarceration by the Initiative and complicates the relationship between Willow and Tara.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40107"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40108,
+    "url": "https://www.tvmaze.com/episodes/40108/buffy-the-vampire-slayer-4x20-the-yoko-factor",
+    "name": "The Yoko Factor",
+    "season": 4,
+    "number": 20,
+    "type": "regular",
+    "airdate": "2000-05-09",
+    "airtime": "20:00",
+    "airstamp": "2000-05-10T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981692.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981692.jpg"
+    },
+    "summary": "<p>After joining forces with Adam, Spike drives a wedge between Buffy and her friends. Meanwhile, Angel's return to Sunnydale leads to a violent confrontation with Riley.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40108"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40109,
+    "url": "https://www.tvmaze.com/episodes/40109/buffy-the-vampire-slayer-4x21-primeval",
+    "name": "Primeval",
+    "season": 4,
+    "number": 21,
+    "type": "regular",
+    "airdate": "2000-05-16",
+    "airtime": "20:00",
+    "airstamp": "2000-05-17T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37342.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37342.jpg"
+    },
+    "summary": "<p>Having gained control of Riley's mind, Adam sets in motion his plot to create an army of unstoppable soldiers and destroy the Initiative.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40109"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40110,
+    "url": "https://www.tvmaze.com/episodes/40110/buffy-the-vampire-slayer-4x22-restless",
+    "name": "Restless",
+    "season": 4,
+    "number": 22,
+    "type": "regular",
+    "airdate": "2000-05-23",
+    "airtime": "20:00",
+    "airstamp": "2000-05-24T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981693.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981693.jpg"
+    },
+    "summary": "<p>Buffy, Willow, Xander, and Giles experience dreams in which they are pursued by a mysterious figure.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40110"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40111,
+    "url": "https://www.tvmaze.com/episodes/40111/buffy-the-vampire-slayer-5x01-buffy-vs-dracula",
+    "name": "Buffy vs. Dracula",
+    "season": 5,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2000-09-26",
+    "airtime": "20:00",
+    "airstamp": "2000-09-27T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37364.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37364.jpg"
+    },
+    "summary": "<p>Buffy finds herself pitted against the legendary Prince of Darkness, Count Dracula.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40111"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40112,
+    "url": "https://www.tvmaze.com/episodes/40112/buffy-the-vampire-slayer-5x02-real-me",
+    "name": "Real Me",
+    "season": 5,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2000-10-03",
+    "airtime": "20:00",
+    "airstamp": "2000-10-04T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981694.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981694.jpg"
+    },
+    "summary": "<p>As Harmony and her vampire gang plot Buffy's demise, Dawn adjusts to life with a Slayer.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40112"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40113,
+    "url": "https://www.tvmaze.com/episodes/40113/buffy-the-vampire-slayer-5x03-the-replacement",
+    "name": "The Replacement",
+    "season": 5,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2000-10-10",
+    "airtime": "20:00",
+    "airstamp": "2000-10-11T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37366.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37366.jpg"
+    },
+    "summary": "<p>When a demon creates a Xander double, the real Xander must convince his friends of his true identity.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40113"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40114,
+    "url": "https://www.tvmaze.com/episodes/40114/buffy-the-vampire-slayer-5x04-out-of-my-mind",
+    "name": "Out of My Mind",
+    "season": 5,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2000-10-17",
+    "airtime": "20:00",
+    "airstamp": "2000-10-18T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981851.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981851.jpg"
+    },
+    "summary": "<p>While Riley's health begins to deteriorate, Spike and Harmony force a surgeon to remove the behavior modification chip embedded in Spike's brain.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40114"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40115,
+    "url": "https://www.tvmaze.com/episodes/40115/buffy-the-vampire-slayer-5x05-no-place-like-home",
+    "name": "No Place Like Home",
+    "season": 5,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2000-10-24",
+    "airtime": "20:00",
+    "airstamp": "2000-10-25T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37368.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37368.jpg"
+    },
+    "summary": "<p>Buffy learns more about Dawn after she discovers a mysterious orb linked to a group of monks being pursued by an incredibly powerful force.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40115"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40116,
+    "url": "https://www.tvmaze.com/episodes/40116/buffy-the-vampire-slayer-5x06-family",
+    "name": "Family",
+    "season": 5,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2000-11-07",
+    "airtime": "20:00",
+    "airstamp": "2000-11-08T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37369.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37369.jpg"
+    },
+    "summary": "<p>When relatives arrive in Sunnydale, to celebrate her birthday, Tara uses a magic spell on her friends to keep them from learning her \"secret.\" Meanwhile, Glory unleashes a hoard of demons to hunt down Buffy.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40116"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40117,
+    "url": "https://www.tvmaze.com/episodes/40117/buffy-the-vampire-slayer-5x07-fool-for-love",
+    "name": "Fool for Love",
+    "season": 5,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2000-11-14",
+    "airtime": "20:00",
+    "airstamp": "2000-11-15T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981856.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981856.jpg"
+    },
+    "summary": "<p>After being bested in a fight by an ordinary vampire, Buffy asks Spike to explain how he killed two Slayers many years earlier.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40117"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40118,
+    "url": "https://www.tvmaze.com/episodes/40118/buffy-the-vampire-slayer-5x08-shadow",
+    "name": "Shadow",
+    "season": 5,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2000-11-21",
+    "airtime": "20:00",
+    "airstamp": "2000-11-22T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.3
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37371.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37371.jpg"
+    },
+    "summary": "<p>Glory transforms a snake into a terrifying monster in her quest to find the Key; Joyce is hospitalized after being diagnosed with an illness.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40118"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40119,
+    "url": "https://www.tvmaze.com/episodes/40119/buffy-the-vampire-slayer-5x09-listening-to-fear",
+    "name": "Listening to Fear",
+    "season": 5,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2000-11-28",
+    "airtime": "20:00",
+    "airstamp": "2000-11-29T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37372.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37372.jpg"
+    },
+    "summary": "<p>Buffy and her friends investigate when a meteorite transports a deadly creature to earth.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40119"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40120,
+    "url": "https://www.tvmaze.com/episodes/40120/buffy-the-vampire-slayer-5x10-into-the-woods",
+    "name": "Into the Woods",
+    "season": 5,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2000-12-19",
+    "airtime": "20:00",
+    "airstamp": "2000-12-20T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37373.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37373.jpg"
+    },
+    "summary": "<p>After Buffy catches Riley in the clutches of a vampire-junkie, Riley makes an important decision regarding their relationship.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40120"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40121,
+    "url": "https://www.tvmaze.com/episodes/40121/buffy-the-vampire-slayer-5x11-triangle",
+    "name": "Triangle",
+    "season": 5,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2001-01-09",
+    "airtime": "20:00",
+    "airstamp": "2001-01-10T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37374.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37374.jpg"
+    },
+    "summary": "<p>While Giles is in England meeting with the Watcher Council, a bickering Anya and Willow mind the magic store and inadvertently conjure up a fearsome troll.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40121"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40122,
+    "url": "https://www.tvmaze.com/episodes/40122/buffy-the-vampire-slayer-5x12-checkpoint",
+    "name": "Checkpoint",
+    "season": 5,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2001-01-23",
+    "airtime": "20:00",
+    "airstamp": "2001-01-24T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37375.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37375.jpg"
+    },
+    "summary": "<p>The Watcher Council travels to Sunnydale to review Buffy's skills as a Slayer; meanwhile, Glory puts her search for the Key into high gear.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40122"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40123,
+    "url": "https://www.tvmaze.com/episodes/40123/buffy-the-vampire-slayer-5x13-blood-ties",
+    "name": "Blood Ties",
+    "season": 5,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2001-02-06",
+    "airtime": "20:00",
+    "airstamp": "2001-02-07T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37376.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37376.jpg"
+    },
+    "summary": "<p>When Dawn learns her true identity, she runs away - only to encounter Glory.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40123"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40124,
+    "url": "https://www.tvmaze.com/episodes/40124/buffy-the-vampire-slayer-5x14-crush",
+    "name": "Crush",
+    "season": 5,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2001-02-13",
+    "airtime": "20:00",
+    "airstamp": "2001-02-14T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37377.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37377.jpg"
+    },
+    "summary": "<p>Buffy learns that Spike has a crush on her - a situation made all the more dangerous by Drusilla's return to Sunnydale.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40124"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40125,
+    "url": "https://www.tvmaze.com/episodes/40125/buffy-the-vampire-slayer-5x15-i-was-made-to-love-you",
+    "name": "I Was Made to Love You",
+    "season": 5,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2001-02-20",
+    "airtime": "20:00",
+    "airstamp": "2001-02-21T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37378.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37378.jpg"
+    },
+    "summary": "<p>Buffy and her friends encounter an incredibly strong female robot with only one thing on its mind - love.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40125"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40126,
+    "url": "https://www.tvmaze.com/episodes/40126/buffy-the-vampire-slayer-5x16-the-body",
+    "name": "The Body",
+    "season": 5,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2001-02-27",
+    "airtime": "20:00",
+    "airstamp": "2001-02-28T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37379.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37379.jpg"
+    },
+    "summary": "<p>Buffy, Dawn, and their friends deal with the aftermath of Joyce's death.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40126"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40127,
+    "url": "https://www.tvmaze.com/episodes/40127/buffy-the-vampire-slayer-5x17-forever",
+    "name": "Forever",
+    "season": 5,
+    "number": 17,
+    "type": "regular",
+    "airdate": "2001-04-17",
+    "airtime": "20:00",
+    "airstamp": "2001-04-18T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37380.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37380.jpg"
+    },
+    "summary": "<p>With some help from Spike, Dawn attempts to bring Joyce back from the dead.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40127"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40128,
+    "url": "https://www.tvmaze.com/episodes/40128/buffy-the-vampire-slayer-5x18-intervention",
+    "name": "Intervention",
+    "season": 5,
+    "number": 18,
+    "type": "regular",
+    "airdate": "2001-04-24",
+    "airtime": "20:00",
+    "airstamp": "2001-04-25T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981861.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981861.jpg"
+    },
+    "summary": "<p>A weary Buffy seeks to regain her focus by embarking on a quest with the Primitive; Spike cavorts with his very own \"Buffybot\"; and Glory instructs her minions to spy on Buffy's friends in the hopes of ascertaining the Key's true identity.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40128"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40129,
+    "url": "https://www.tvmaze.com/episodes/40129/buffy-the-vampire-slayer-5x19-tough-love",
+    "name": "Tough Love",
+    "season": 5,
+    "number": 19,
+    "type": "regular",
+    "airdate": "2001-05-01",
+    "airtime": "20:00",
+    "airstamp": "2001-05-02T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37382.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37382.jpg"
+    },
+    "summary": "<p>When Tara falls victim to Glory's incredible power, Willow embraces dark magic and launches a counterattack.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40129"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40130,
+    "url": "https://www.tvmaze.com/episodes/40130/buffy-the-vampire-slayer-5x20-spiral",
+    "name": "Spiral",
+    "season": 5,
+    "number": 20,
+    "type": "regular",
+    "airdate": "2001-05-08",
+    "airtime": "20:00",
+    "airstamp": "2001-05-09T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37383.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37383.jpg"
+    },
+    "summary": "<p>Buffy and her friends flee Sunnydale when Glory closes in on Dawn.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40130"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40131,
+    "url": "https://www.tvmaze.com/episodes/40131/buffy-the-vampire-slayer-5x21-the-weight-of-the-world",
+    "name": "The Weight of the World",
+    "season": 5,
+    "number": 21,
+    "type": "regular",
+    "airdate": "2001-05-15",
+    "airtime": "20:00",
+    "airstamp": "2001-05-16T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37384.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37384.jpg"
+    },
+    "summary": "<p>When Buffy lapses into a catatonic state, Willow uses magic to find out why; a tug-of-war erupts between Glory and Ben over Dawn's ultimate fate.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40131"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40132,
+    "url": "https://www.tvmaze.com/episodes/40132/buffy-the-vampire-slayer-5x22-the-gift",
+    "name": "The Gift",
+    "season": 5,
+    "number": 22,
+    "type": "regular",
+    "airdate": "2001-05-22",
+    "airtime": "20:00",
+    "airstamp": "2001-05-23T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37385.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37385.jpg"
+    },
+    "summary": "<p>As Glory prepares Dawn for a bloodletting ritual that will open a portal to another dimension, Buffy and her friends prepare for battle.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40132"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 2085180,
+    "url": "https://www.tvmaze.com/episodes/2085180/buffy-the-vampire-slayer-6x01-bargaining-part-1",
+    "name": "Bargaining - Part 1",
+    "season": 6,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2001-10-02",
+    "airtime": "20:00",
+    "airstamp": "2001-10-03T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/314/785063.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/314/785063.jpg"
+    },
+    "summary": "<p>Buffy is dead, and the Scooby Gang must do the best they can without her. But concern about the way she died leads Willow to believe that she may have been pulled into a hell dimension. Unable to bear the thought of their friend enduring eternal torment, Willow, Xander, Anya, and Tara decide to perform a resurrection spell that will bring Buffy back from the dead.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/2085180"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40133,
+    "url": "https://www.tvmaze.com/episodes/40133/buffy-the-vampire-slayer-6x02-bargaining-part-2",
+    "name": "Bargaining - Part 2",
+    "season": 6,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2001-10-02",
+    "airtime": "20:00",
+    "airstamp": "2001-10-03T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37386.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37386.jpg"
+    },
+    "summary": "<p>As a gang demon bikers attack, the Scooby Gang is chased away from Buffy's grave thinking that the resurrection was a failure. They do not realize that the Slayer is alive... right where they left her. Buffy is awake but disoriented and afraid as she must claw her way out of her own grave. Buffy may be alive again, but the trauma she suffers is far from over.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40133"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40134,
+    "url": "https://www.tvmaze.com/episodes/40134/buffy-the-vampire-slayer-6x03-after-life",
+    "name": "After Life",
+    "season": 6,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2001-10-09",
+    "airtime": "20:00",
+    "airstamp": "2001-10-10T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37387.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37387.jpg"
+    },
+    "summary": "<p>As Buffy and the Scoobies adjust to her resurrection, they find themselves dealing with a mysterious spirit-demon brought back with her.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40134"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40135,
+    "url": "https://www.tvmaze.com/episodes/40135/buffy-the-vampire-slayer-6x04-flooded",
+    "name": "Flooded",
+    "season": 6,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2001-10-16",
+    "airtime": "20:00",
+    "airstamp": "2001-10-17T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37388.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37388.jpg"
+    },
+    "summary": "<p>Buffy's life is further complicated by mounting financial problems, a flooded basement, and a warrior demon out for her blood.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40135"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40136,
+    "url": "https://www.tvmaze.com/episodes/40136/buffy-the-vampire-slayer-6x05-life-serial",
+    "name": "Life Serial",
+    "season": 6,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2001-10-23",
+    "airtime": "20:00",
+    "airstamp": "2001-10-24T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37389.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37389.jpg"
+    },
+    "summary": "<p>The Geek Trio begin their plans by testing Buffy's abilities and subsequently ruining her attempts at employment.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40136"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40137,
+    "url": "https://www.tvmaze.com/episodes/40137/buffy-the-vampire-slayer-6x06-all-the-way",
+    "name": "All the Way",
+    "season": 6,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2001-10-30",
+    "airtime": "20:00",
+    "airstamp": "2001-10-31T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37390.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37390.jpg"
+    },
+    "summary": "<p>Dawn lies to Buffy and goes out with a boy on Halloween, but when the boy turns out to be a vampire ignoring the Halloween-no-killing rule, Buffy and the guys must save her...again.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40137"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40138,
+    "url": "https://www.tvmaze.com/episodes/40138/buffy-the-vampire-slayer-6x07-once-more-with-feeling",
+    "name": "Once More, with Feeling",
+    "season": 6,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2001-11-06",
+    "airtime": "20:00",
+    "airstamp": "2001-11-07T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37391.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37391.jpg"
+    },
+    "summary": "<p>Sunnydale is alive with the sound of music as a mysterious force causes everyone in town to burst into full musical numbers, revealing their innermost secrets as they do. But some townsfolk are dancing so much that they simply burst into flames, and it becomes clear that maybe living in a musical isn't so great after all.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40138"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40139,
+    "url": "https://www.tvmaze.com/episodes/40139/buffy-the-vampire-slayer-6x08-tabula-rasa",
+    "name": "Tabula Rasa",
+    "season": 6,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2001-11-13",
+    "airtime": "20:00",
+    "airstamp": "2001-11-14T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37392.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37392.jpg"
+    },
+    "summary": "<p>Willow tries to solve too many problems with magic, accidentally making herself and the others forget who they are just as a demon loan shark and his boys come looking to collect a debt from Spike.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40139"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40140,
+    "url": "https://www.tvmaze.com/episodes/40140/buffy-the-vampire-slayer-6x09-smashed",
+    "name": "Smashed",
+    "season": 6,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2001-11-20",
+    "airtime": "20:00",
+    "airstamp": "2001-11-21T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37393.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37393.jpg"
+    },
+    "summary": "<p>Both Buffy and Willow are following their own paths to demon behavior: the Slayer finds a new way to slay a vampire, the Witch finds that omnipotence is cool. Rat-witch Amy is finally restored.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40140"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40141,
+    "url": "https://www.tvmaze.com/episodes/40141/buffy-the-vampire-slayer-6x10-wrecked",
+    "name": "Wrecked",
+    "season": 6,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2001-11-27",
+    "airtime": "20:00",
+    "airstamp": "2001-11-28T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37394.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37394.jpg"
+    },
+    "summary": "<p>When they return home from their nights out, Buffy is ashamed of having slept with Spike and Willow is exhausted from casting spells all night. Amy takes Willow to a sorcerer named Rack whose particular brand of magic quickly has Willow hooked. Later, Willow and Dawn decide to go out for a movie, but Willow's recklessness with magic puts Dawn's life in danger.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40141"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40142,
+    "url": "https://www.tvmaze.com/episodes/40142/buffy-the-vampire-slayer-6x11-gone",
+    "name": "Gone",
+    "season": 6,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2002-01-08",
+    "airtime": "20:00",
+    "airstamp": "2002-01-09T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37395.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37395.jpg"
+    },
+    "summary": "<p>The Three Geeks mistakenly turn Buffy invisible. The Slayer takes some advantage from going unseen. Willow has to do the detective without using magic, while Xander finds Spike doing some weird physical training.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40142"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40143,
+    "url": "https://www.tvmaze.com/episodes/40143/buffy-the-vampire-slayer-6x12-doublemeat-palace",
+    "name": "Doublemeat Palace",
+    "season": 6,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2002-01-29",
+    "airtime": "20:00",
+    "airstamp": "2002-01-30T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37396.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37396.jpg"
+    },
+    "summary": "<p>When Buffy gets a job at the Doublemeat Palace, a local fast-food restaurant, she begins to believe that disappearing co-workers and the secret ingredient to the restaurant's hamburger may be connected.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40143"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40144,
+    "url": "https://www.tvmaze.com/episodes/40144/buffy-the-vampire-slayer-6x13-dead-things",
+    "name": "Dead Things",
+    "season": 6,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2002-02-05",
+    "airtime": "20:00",
+    "airstamp": "2002-02-06T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981873.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981873.jpg"
+    },
+    "summary": "<p>After Jonathan, Andrew, and Warren accidentally kill Warren's ex-girlfriend Katrina, they set Buffy up to make her believe it was she who killed the girl.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40144"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40145,
+    "url": "https://www.tvmaze.com/episodes/40145/buffy-the-vampire-slayer-6x14-older-and-far-away",
+    "name": "Older and Far Away",
+    "season": 6,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2002-02-12",
+    "airtime": "20:00",
+    "airstamp": "2002-02-13T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37398.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37398.jpg"
+    },
+    "summary": "<p>After Dawn talks to a guidance counselor about her feeling lonely, she accidentally puts a spell on Buffy and her friends, trapping them inside the Summer's house with a sword-wielding demon.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40145"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40146,
+    "url": "https://www.tvmaze.com/episodes/40146/buffy-the-vampire-slayer-6x15-as-you-were",
+    "name": "As You Were",
+    "season": 6,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2002-02-26",
+    "airtime": "20:00",
+    "airstamp": "2002-02-27T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37399.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37399.jpg"
+    },
+    "summary": "<p>Buffy's ex-boyfriend, Riley Finn, returns to Sunnydale with his new wife Sam to track down a nest of demons which threaten the future of the town.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40146"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40147,
+    "url": "https://www.tvmaze.com/episodes/40147/buffy-the-vampire-slayer-6x16-hells-bells",
+    "name": "Hell's Bells",
+    "season": 6,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2002-03-05",
+    "airtime": "20:00",
+    "airstamp": "2002-03-06T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37400.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37400.jpg"
+    },
+    "summary": "<p>It's the day of Xander and Anya's wedding. Emotions are running high with Xander's disfunctional family clashing with Anya's demon friends. The ceremony is disrupted when an old man claiming to be the future Xander shows up.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40147"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40148,
+    "url": "https://www.tvmaze.com/episodes/40148/buffy-the-vampire-slayer-6x17-normal-again",
+    "name": "Normal Again",
+    "season": 6,
+    "number": 17,
+    "type": "regular",
+    "airdate": "2002-03-12",
+    "airtime": "20:00",
+    "airstamp": "2002-03-13T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37401.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37401.jpg"
+    },
+    "summary": "<p>After Buffy is stung by a demon, she begins to have vivid day-dreams about a mental asylum. She gradually begins to believe that she is a crazy girl back in L.A and that Sunnydale and all her friends are just a figment of her imagination.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40148"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40149,
+    "url": "https://www.tvmaze.com/episodes/40149/buffy-the-vampire-slayer-6x18-entropy",
+    "name": "Entropy",
+    "season": 6,
+    "number": 18,
+    "type": "regular",
+    "airdate": "2002-04-30",
+    "airtime": "20:00",
+    "airstamp": "2002-05-01T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37402.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37402.jpg"
+    },
+    "summary": "<p>Anya returns to Sunnydale, bent on revenge for Xander leaving her at the altar. She has since become a Vengence demon again, but ends up hurting Xander in a way she never expected.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40149"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40150,
+    "url": "https://www.tvmaze.com/episodes/40150/buffy-the-vampire-slayer-6x19-seeing-red",
+    "name": "Seeing Red",
+    "season": 6,
+    "number": 19,
+    "type": "regular",
+    "airdate": "2002-05-07",
+    "airtime": "20:00",
+    "airstamp": "2002-05-08T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37403.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37403.jpg"
+    },
+    "summary": "<p>Willow and Tara wallow in their togetherness, but things aren't as happy everywhere else. Buffy has to face both Xander and Spike, whilst tracking Warren and Company to foil their next move.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40150"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40151,
+    "url": "https://www.tvmaze.com/episodes/40151/buffy-the-vampire-slayer-6x20-villains",
+    "name": "Villains",
+    "season": 6,
+    "number": 20,
+    "type": "regular",
+    "airdate": "2002-05-14",
+    "airtime": "20:00",
+    "airstamp": "2002-05-15T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37404.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37404.jpg"
+    },
+    "summary": "<p>Enraged after Tara's death at the hands of Warren, Willow turns to the Black Magics to exact her revenge.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40151"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40152,
+    "url": "https://www.tvmaze.com/episodes/40152/buffy-the-vampire-slayer-6x21-two-to-go",
+    "name": "Two to Go",
+    "season": 6,
+    "number": 21,
+    "type": "regular",
+    "airdate": "2002-05-21",
+    "airtime": "20:00",
+    "airstamp": "2002-05-22T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37405.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37405.jpg"
+    },
+    "summary": "<p>After killing Warren, Dark Willow tries to track-down Andrew and Jonathan. Meanwhile, in Africa, Spike battles against a numerous amount of foes to try to get his chip removed.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40152"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40153,
+    "url": "https://www.tvmaze.com/episodes/40153/buffy-the-vampire-slayer-6x22-grave",
+    "name": "Grave",
+    "season": 6,
+    "number": 22,
+    "type": "regular",
+    "airdate": "2002-05-21",
+    "airtime": "20:00",
+    "airstamp": "2002-05-22T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37406.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37406.jpg"
+    },
+    "summary": "<p>The Scoobies continue to try and stop Dark Willow, who is now intent on destroying the world. After Dark Willow neutralizes Buffy, though, Xander is the only one left who can save the day. Meanwhile, in Africa, Spike completes the demon trials and gets his reward.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40153"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40154,
+    "url": "https://www.tvmaze.com/episodes/40154/buffy-the-vampire-slayer-7x01-lessons",
+    "name": "Lessons",
+    "season": 7,
+    "number": 1,
+    "type": "regular",
+    "airdate": "2002-09-24",
+    "airtime": "20:00",
+    "airstamp": "2002-09-25T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37407.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37407.jpg"
+    },
+    "summary": "<p>Sunnydale High is re-opened, with a new designed campus and a new principal, Robin Wood. It is Dawn's first day at school there and Buffy accompanies her to class, only to discover evil spirits lurking in the basement.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40154"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40155,
+    "url": "https://www.tvmaze.com/episodes/40155/buffy-the-vampire-slayer-7x02-beneath-you",
+    "name": "Beneath You",
+    "season": 7,
+    "number": 2,
+    "type": "regular",
+    "airdate": "2002-10-01",
+    "airtime": "20:00",
+    "airstamp": "2002-10-02T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.6
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981875.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981875.jpg"
+    },
+    "summary": "<p>A giant worm-like creature begins stalking a young girl. As the gang begin to investigate, they realise it's appearance in Sunnydale may be linked to Anya.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40155"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40156,
+    "url": "https://www.tvmaze.com/episodes/40156/buffy-the-vampire-slayer-7x03-same-time-same-place",
+    "name": "Same Time, Same Place",
+    "season": 7,
+    "number": 3,
+    "type": "regular",
+    "airdate": "2002-10-08",
+    "airtime": "20:00",
+    "airstamp": "2002-10-09T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 6.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981878.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981878.jpg"
+    },
+    "summary": "<p>Though they seem to be in the same places at the same time, Buffy, Xander and Dawn are unable to find Willow when she returns from England. Shortly after returning to Sunnydale, people start turning up skinned alive. As Buffy and Xander worry that this could be Willow's work, Willow sets out to find the creature that did it.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40156"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40157,
+    "url": "https://www.tvmaze.com/episodes/40157/buffy-the-vampire-slayer-7x04-help",
+    "name": "Help",
+    "season": 7,
+    "number": 4,
+    "type": "regular",
+    "airdate": "2002-10-15",
+    "airtime": "20:00",
+    "airstamp": "2002-10-16T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981879.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981879.jpg"
+    },
+    "summary": "<p>Buffy begins a new job as school counsellor at Sunnydale High. On her first day she encounters a troubled young girl who is convinced she is about to die.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40157"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40158,
+    "url": "https://www.tvmaze.com/episodes/40158/buffy-the-vampire-slayer-7x05-selfless",
+    "name": "Selfless",
+    "season": 7,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2002-10-22",
+    "airtime": "20:00",
+    "airstamp": "2002-10-23T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981880.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981880.jpg"
+    },
+    "summary": "<p>Anya grants a young woman's wish, and the violent and deadly act of vengeance leaves everyone stunned. Buffy must put aside her feelings for her friend and take action before more people die. Meanwhile, flashbacks depict how Anya became a vengeance demon, and Willow returns to college.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40158"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40159,
+    "url": "https://www.tvmaze.com/episodes/40159/buffy-the-vampire-slayer-7x06-him",
+    "name": "Him",
+    "season": 7,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2002-11-05",
+    "airtime": "20:00",
+    "airstamp": "2002-11-06T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981881.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981881.jpg"
+    },
+    "summary": "<p>Dawn's simple crush on Sunnydale High's star quarterback RJ starts to become obsessive, leading Buffy to investigate the boy herself. When Buffy, along with all the other women who see RJ, also fall in love with him, Spike and Xander must team up to discover the source of this attraction. But first they have to keep the women from doing anything crazy in their competition for RJ's affection.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40159"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40160,
+    "url": "https://www.tvmaze.com/episodes/40160/buffy-the-vampire-slayer-7x07-conversations-with-dead-people",
+    "name": "Conversations with Dead People",
+    "season": 7,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2002-11-12",
+    "airtime": "20:00",
+    "airstamp": "2002-11-13T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981882.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981882.jpg"
+    },
+    "summary": "<p>Buffy has a conversation with a vampire who once went to Sunnydale High, and learns something interesting about Spike. Joyce materialises to Dawn in the living room. The ghost of Cassie brings a message to Willow from beyond the grave. Meanwhile, Andrew and Jonathan have returned to Sunnydale on a mission to save the town</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40160"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40161,
+    "url": "https://www.tvmaze.com/episodes/40161/buffy-the-vampire-slayer-7x08-sleeper",
+    "name": "Sleeper",
+    "season": 7,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2002-11-19",
+    "airtime": "20:00",
+    "airstamp": "2002-11-20T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981884.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981884.jpg"
+    },
+    "summary": "<p>The Scooby Gang fear Spike may have turned evil again when people begin mysteriously disappearing around town. Giles makes a cataclysmic discovery.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40161"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40162,
+    "url": "https://www.tvmaze.com/episodes/40162/buffy-the-vampire-slayer-7x09-never-leave-me",
+    "name": "Never Leave Me",
+    "season": 7,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2002-11-26",
+    "airtime": "20:00",
+    "airstamp": "2002-11-27T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37415.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37415.jpg"
+    },
+    "summary": "<p>Spike is held captive in the Summers home while the Scoobies ponder their options in the aftermath of his murder spree. Willow finds Andrew buying blood and decides to take him prisoner also. While they try to decide what to do next, the gang are interrupted by the mysterious hooded figures called \"Harbingers\"... the minions of the First Evil.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40162"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40163,
+    "url": "https://www.tvmaze.com/episodes/40163/buffy-the-vampire-slayer-7x10-bring-on-the-night",
+    "name": "Bring on the Night",
+    "season": 7,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2002-12-17",
+    "airtime": "20:00",
+    "airstamp": "2002-12-18T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37416.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37416.jpg"
+    },
+    "summary": "<p>Giles returns to Sunnydale with three potential slayers, whom Buffy must protect from The First. Meanwhile, a ferocious Uber-vampire is released from the Hellmouth and Buffy must kill it before it kills one of the potentials.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40163"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40164,
+    "url": "https://www.tvmaze.com/episodes/40164/buffy-the-vampire-slayer-7x11-showtime",
+    "name": "Showtime",
+    "season": 7,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2003-01-07",
+    "airtime": "20:00",
+    "airstamp": "2003-01-08T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981890.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981890.jpg"
+    },
+    "summary": "<p>Buffy teaches the Potential Slayers a valuable lesson as she faces a final fight with the Uber-vampire. Meanwhile, Giles and Anya enter another dimension to find a demon which holds the answer the defeating The First. What they find out is very disturbing.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40164"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40165,
+    "url": "https://www.tvmaze.com/episodes/40165/buffy-the-vampire-slayer-7x12-potential",
+    "name": "Potential",
+    "season": 7,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2003-01-21",
+    "airtime": "20:00",
+    "airstamp": "2003-01-22T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37418.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37418.jpg"
+    },
+    "summary": "<p>Buffy takes the Potentials to a demon bar and then to Spike's crypt, in order to teach them the art of slaying. When Willow casts a spell to seek out the next Potential, the spell leads them to believe that Dawn may be a future slayer.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40165"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40166,
+    "url": "https://www.tvmaze.com/episodes/40166/buffy-the-vampire-slayer-7x13-the-killer-in-me",
+    "name": "The Killer in Me",
+    "season": 7,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2003-02-04",
+    "airtime": "20:00",
+    "airstamp": "2003-02-05T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37419.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37419.jpg"
+    },
+    "summary": "<p>After Willow and Kennedy share their first kiss, Willow is transformed into Warren, the man she killed last year. When she sets out to find help, she bumps into an old friend. Meanwhile, Buffy searches for answers when Spike's chip causes him great pain, and the gang suspect that Giles may really be The First.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40166"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40167,
+    "url": "https://www.tvmaze.com/episodes/40167/buffy-the-vampire-slayer-7x14-first-date",
+    "name": "First Date",
+    "season": 7,
+    "number": 14,
+    "type": "regular",
+    "airdate": "2003-02-11",
+    "airtime": "20:00",
+    "airstamp": "2003-02-12T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.9
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37420.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37420.jpg"
+    },
+    "summary": "<p>Buffy accepts an invitation to dinner from Principal Wood, and the secrets of his past are revealed. Xander impresses a beautiful girl with his knowledge of knots, and she seems to be interested in tying him up. Meanwhile the First contacts Andrew in another attempt to destroy the Potentials, and Giles finds himself tongue-tied with the new Potential, Chao-Ahn.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40167"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40168,
+    "url": "https://www.tvmaze.com/episodes/40168/buffy-the-vampire-slayer-7x15-get-it-done",
+    "name": "Get It Done",
+    "season": 7,
+    "number": 15,
+    "type": "regular",
+    "airdate": "2003-02-18",
+    "airtime": "20:00",
+    "airstamp": "2003-02-19T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.4
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37421.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37421.jpg"
+    },
+    "summary": "<p>The Scoobies use a spell to transport Buffy into a shadow world, where she meets the men who created the first slayer. However, in order for her to return home, the gang must find and slay a ferocious demon.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40168"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40169,
+    "url": "https://www.tvmaze.com/episodes/40169/buffy-the-vampire-slayer-7x16-storyteller",
+    "name": "Storyteller",
+    "season": 7,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2003-02-25",
+    "airtime": "20:00",
+    "airstamp": "2003-02-26T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.1
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/14/37422.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/37422.jpg"
+    },
+    "summary": "<p>Andrew creates a documentary called \"Buffy, Slayer of the Vampyres\", a record of the current situation in Sunnydale to show to future generations. He manages to capture many important moments, and to annoy almost everyone in the house. But Buffy needs to tear him away from his filmmaking because the Seal of Danzalthar is active and Andrew may hold the key to closing it before it destroys the town.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40169"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40170,
+    "url": "https://www.tvmaze.com/episodes/40170/buffy-the-vampire-slayer-7x17-lies-my-parents-told-me",
+    "name": "Lies My Parents Told Me",
+    "season": 7,
+    "number": 17,
+    "type": "regular",
+    "airdate": "2003-03-25",
+    "airtime": "20:00",
+    "airstamp": "2003-03-26T01:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.5
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981896.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981896.jpg"
+    },
+    "summary": "<p>Robin Wood seeks revenge on Spike for killing his mother nearly 30 years ago, whilst everyone else tries to find out how The First has control over him.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40170"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40171,
+    "url": "https://www.tvmaze.com/episodes/40171/buffy-the-vampire-slayer-7x18-dirty-girls",
+    "name": "Dirty Girls",
+    "season": 7,
+    "number": 18,
+    "type": "regular",
+    "airdate": "2003-04-15",
+    "airtime": "20:00",
+    "airstamp": "2003-04-16T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981898.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981898.jpg"
+    },
+    "summary": "<p>Faith returns to Sunnydale just as a new villain, Caleb, arrives and sends Buffy a message in the form of a badly beaten Potential. Buffy leads the rest of the girls to Caleb and The First's lair, with devastating consequences.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40171"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40172,
+    "url": "https://www.tvmaze.com/episodes/40172/buffy-the-vampire-slayer-7x19-empty-places",
+    "name": "Empty Places",
+    "season": 7,
+    "number": 19,
+    "type": "regular",
+    "airdate": "2003-04-29",
+    "airtime": "20:00",
+    "airstamp": "2003-04-30T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981900.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981900.jpg"
+    },
+    "summary": "<p>After their horrifying loss at the vineyard, the gang turn against Buffy and begin to follow Faith instead. Meanwhile, Spike and Andrew travel to an old church to question a priest about Caleb.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40172"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40173,
+    "url": "https://www.tvmaze.com/episodes/40173/buffy-the-vampire-slayer-7x20-touched",
+    "name": "Touched",
+    "season": 7,
+    "number": 20,
+    "type": "regular",
+    "airdate": "2003-05-06",
+    "airtime": "20:00",
+    "airstamp": "2003-05-07T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 7.7
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981903.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981903.jpg"
+    },
+    "summary": "<p>Faith and the Potentials search underground for a weapon, whilst Buffy confronts Caleb at the vineyard.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40173"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40174,
+    "url": "https://www.tvmaze.com/episodes/40174/buffy-the-vampire-slayer-7x21-end-of-days",
+    "name": "End of Days",
+    "season": 7,
+    "number": 21,
+    "type": "regular",
+    "airdate": "2003-05-13",
+    "airtime": "20:00",
+    "airstamp": "2003-05-14T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981906.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981906.jpg"
+    },
+    "summary": "<p>Buffy has a powerful new weapon, but the gang cannot find any information about the origins of the mysterious scythe. Eventually the Slayer goes herself in search of knowledge, and finds a new ally, an old friend, and great danger.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40174"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+},
+{
+    "id": 40175,
+    "url": "https://www.tvmaze.com/episodes/40175/buffy-the-vampire-slayer-7x22-chosen",
+    "name": "Chosen",
+    "season": 7,
+    "number": 22,
+    "type": "regular",
+    "airdate": "2003-05-20",
+    "airtime": "20:00",
+    "airstamp": "2003-05-21T00:00:00+00:00",
+    "runtime": 60,
+    "rating": {
+    "average": 8.2
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/392/981911.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/981911.jpg"
+    },
+    "summary": "<p>After killing Caleb, Buffy conceives a plan to defeat the First once and for all. Willow invokes a magic spell that alters the ancient Slayer spell and gives Buffy the allies she needs to fight the Uber-Vamp army. An epic battle ensues and several good friends are lost. At the end, Buffy faces a completely new problem - one she's glad to have.</p>",
+    "_links": {
+    "self": {
+        "href": "https://api.tvmaze.com/episodes/40175"
+    },
+    "show": {
+        "href": "https://api.tvmaze.com/shows/427"
+    }
+    }
+}
+]

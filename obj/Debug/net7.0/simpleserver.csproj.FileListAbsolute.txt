@@ -1,0 +1,14 @@
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\bin\Debug\net7.0\simpleserver.exe
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\bin\Debug\net7.0\simpleserver.deps.json
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\bin\Debug\net7.0\simpleserver.runtimeconfig.json
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\bin\Debug\net7.0\simpleserver.dll
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\bin\Debug\net7.0\simpleserver.pdb
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\obj\Debug\net7.0\simpleserver.GeneratedMSBuildEditorConfig.editorconfig
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\obj\Debug\net7.0\simpleserver.AssemblyInfoInputs.cache
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\obj\Debug\net7.0\simpleserver.AssemblyInfo.cs
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\obj\Debug\net7.0\simpleserver.csproj.CoreCompileInputs.cache
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\obj\Debug\net7.0\simpleserver.dll
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\obj\Debug\net7.0\refint\simpleserver.dll
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\obj\Debug\net7.0\simpleserver.pdb
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\obj\Debug\net7.0\simpleserver.genruntimeconfig.cache
+\\students\student-a-c\amadarapu\Desktop\CS 208\simpleserver2\simpleserver\obj\Debug\net7.0\ref\simpleserver.dll
